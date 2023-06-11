@@ -1,9 +1,9 @@
 # cka
 50 challanges, covering various aspects of deployment, networking, storage, monitoring, troubleshooting, security, and miscellaneous tasks related to managing a Kubernetes cluster.
 
-    # Deployment:
+   # Deployment:
 
-    * Deploy a single-node Kubernetes cluster using a local development environment like Minikube.
+* Deploy a single-node Kubernetes cluster using a local development environment like Minikube.
     * Scale up the number of replicas for a simple application deployment.
     * Update a running application to a new version without downtime using Rolling Updates.
     * Create a Kubernetes Deployment with a specific CPU and memory resource limit.
